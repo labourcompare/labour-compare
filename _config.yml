@@ -1,0 +1,9 @@
+title: Labour Compare
+tagline: Compare labour hire rates and agencies in Australia
+url: https://YOUR_USERNAME.github.io/labour-compare
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+description: Simple, fast comparison site for labour hire pay bands and services.
